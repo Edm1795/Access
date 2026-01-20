@@ -1,6 +1,9 @@
 # Log of Actions
 
-# Version 0.2
+# Version 0.21
+
+## remember to run the createAccessAcountsFile to create the test Access file which this program uses. Make sure you save the Test Access file in the correct directory
+## currently see for D:\DataForProgramming. Adjust the directory as you like inside the first function below (openFile)
 
 # Downloaded Microsoft Access Engine 64 bit version (https://www.microsoft.com/en-us/download/details.aspx?id=54920)
 # (check that you get hte version matching the bitness of your Python Inter. x64 for 64 bit; .exe. for 32 bit)
