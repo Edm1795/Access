@@ -1,4 +1,4 @@
-import win32com.client
+import win32com.client # known as pywin32 on package installer
 import pyodbc
 import os
 import random
