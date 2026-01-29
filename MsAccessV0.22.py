@@ -94,4 +94,4 @@ def main():
     extractedData=extractSpecifiedColumns(rawData)
     plotData(extractedData)
 
-main()
+
